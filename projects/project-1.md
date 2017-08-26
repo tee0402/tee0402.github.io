@@ -9,7 +9,7 @@ labels:
   - Finance
   - Android
   - Java
-summary: An Android app that allows you to trade U.S. stocks with virtual money
+summary: An Android app that allows you to trade U.S. stocks with virtual money.
 ---
 
 <div class="ui small rounded images">
