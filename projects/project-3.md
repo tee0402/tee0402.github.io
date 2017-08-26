@@ -13,7 +13,7 @@ labels:
 summary: A fun Android app with memes from the Star Wars prequels.
 ---
 
-<img class="ui medium image" src="../images/soundboard_screenshot_1.png">
+<img class="ui small image" src="../images/soundboard_screenshot_1.png">
 
 Cotton is a horror-esque text-based adventure game I developed using the functions and macros built from The Wizard's Game in [Conrad Barski's Land of Lisp](http://landoflisp.com/). Slightly more interesting and convoluted! (It is not that scary.)
 
