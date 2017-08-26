@@ -1,16 +1,17 @@
 ---
 layout: project
 type: project
-image: images/vacay-square.png
-title: Vacay
-permalink: projects/vacay
-date: 2015
+image: images/bamboo.png
+title: Bamboo
+permalink: projects/bamboo
+date: 2017
 labels:
   - Javascript
-  - Meteor
-  - MongoDB
-  - GitHub
-summary: A responsive web application for travel planning that my team developed in ICS 415.
+  - AngularJS
+  - PHP
+  - MySQL
+  - Bootstrap
+summary: A dynamic web application for planning your finances to achieve financial independence or retirement.
 ---
 
 <img class="ui medium right floated rounded image" src="../images/vacay-home-page.png">
