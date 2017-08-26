@@ -13,7 +13,7 @@ labels:
 summary: An Android app that allows you to trade U.S. stocks with virtual money.
 ---
 
-<div class="ui medium rounded images">
+<div class="ui small rounded images">
   <img class="ui image" src="../images/papertrader_screenshot_1.png">
   <img class="ui image" src="../images/papertrader_screenshot_2.png">
   <img class="ui image" src="../images/papertrader_screenshot_3.png">
