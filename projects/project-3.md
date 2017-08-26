@@ -1,14 +1,16 @@
 ---
 layout: project
 type: project
-image: images/cotton-square.png
-title: Cotton
-permalink: projects/cotton
-date: 2014
+image: images/Emperor-icon.png
+title: Star Wars Soundboard
+permalink: projects/starwarssoundboard
+date: 2017
 labels:
-  - Lisp
-  - GitHub
-summary: A text adventure game I developed for ICS 313.
+  - Entertainment
+  - Android
+  - Java
+  - Github
+summary: A fun Android app with memes from the Star Wars prequels.
 ---
 
 <img class="ui image" src="{{ site.baseurl }}/images/cotton-header.png">
