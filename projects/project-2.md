@@ -14,7 +14,7 @@ labels:
 summary: A dynamic web application for planning your finances to achieve financial independence or retirement.
 ---
 
-<img class="ui image" src="../images/website.png">
+<img class="ui medium image" src="../images/website.png">
 
 Vacay is a web application that I helped create as a team project in ICS 415, Spring 2015. The project helped me learn how to design and implement a responsive web site.
 
