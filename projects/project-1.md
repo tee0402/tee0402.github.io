@@ -1,15 +1,15 @@
 ---
 layout: project
 type: project
-image: images/micromouse.jpg
-title: Micromouse
-permalink: projects/micromouse
-date: 2015
+image: images/ic_stocks.png
+title: Paper Trader
+permalink: projects/papertrader
+date: 2017
 labels:
-  - Robotics
-  - Arduino
-  - C++
-summary: My team developed a robotic mouse that won first place in the 2015 UH Micromouse competition.
+  - Finance
+  - Android
+  - Java
+summary: An Android app that allows you to trade U.S. stocks with virtual money
 ---
 
 <div class="ui small rounded images">
