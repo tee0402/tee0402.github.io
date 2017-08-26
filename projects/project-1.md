@@ -25,5 +25,6 @@ For this project, I was the lead programmer who was responsible for programming 
 
 You can download <a href="https://play.google.com/store/apps/details?id=kesira.papertrader">Paper Trader</a> at the Google Play Store.
 
+Source: <a href="https://github.com/tee0402/PaperTrader"><i class="large github icon "></i>tee0402/PaperTrader</a>
 
 
