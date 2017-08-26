@@ -31,17 +31,15 @@
     {
       "name": "internet of things",
       "keywords": [
-        "Arduino",
-        "TI MSP430"
       ]
     },
     {
-      "name": "data mining",
+      "name": "machine learning",
       "keywords": [
       ]
     },
     {
-      "name": "artificial intelligence",
+      "name": "finance",
       "keywords": [
       ]
     }
@@ -53,21 +51,23 @@
       "keywords": [
         "C",
         "C++",
+        "C#",
         "Java",
+        "HTML",
+        "CSS",
         "Javascript",
-        "Assembly",
-        "Common Lisp"
+        "PHP",
+        "Python",
+        "SQL"
       ]
     },
     {
       "name": "Toolsets/OS",
       "level": "",
       "keywords": [
-        "MacOS",
+        "Windows",
         "Ubuntu",
-        "Git/GitHub",
-        "g++",
-        "TI LaunchPad"
+        "Git/GitHub"
       ]
     }
   ],
