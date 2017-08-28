@@ -15,7 +15,7 @@ I am not a greedy person, but ever since my friend introduced me to the world of
 
 <img class="ui tiny left circular floated image" src="../images/design-technology.jpg">
 
-Software engineering is well-equipped to solve the complex problems in the world of finance. Quantitative analysts, or quants, make their living doing just that, by applying mathematics and computer science to create complex algorithms and risk management strategies for financial firms.
+Because of the massive scale at which software applications can be deployed, costs associated with traditional brokerages such as commission fees can be eliminated altogether, as Robinhood has done for its users. This could be a step towards democratizing the markets and narrowing wealth inequality. Software engineering is also well-equipped to solve the complex problems in the world of finance. Quantitative analysts, or quants, make their living doing just that, by applying mathematics and computer science to create complex algorithms and risk management strategies for their firms.
 
 <img class="ui tiny left circular floated image" src="../images/software-code.jpg">
 
