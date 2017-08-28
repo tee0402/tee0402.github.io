@@ -6,11 +6,12 @@ date: 2017-08-27
 labels:
   - Software Engineering
   - Learning
+  - Finance
 ---
 
-<img class="ui tiny left circular floated image" src="../images/paintbrushes.jpg">
+<img class="ui tiny right circular floated image" src="../images/paintbrushes.jpg">
 
-Ever since I first grasped a paintbrush, I’ve always been eager to learn about design. Design is such a complex concept. For example, when looking at abstract art, its meaning can be completely different for different people. It motivates a person to think thoughtfully and has the potential to submerge them in a sea of imagination. It’s that special relationship between the viewer and the art that makes something as technical as software engineering interesting to me.
+I am not a greedy person, but ever since my friend introduced me to the world of finance, I have been intrigued by it and the possibilities that it can bring. It is remarkable how money can grow ten-fold, or even a hundred-fold, if allocated to the right investments, without much, if any, effort on the investor's part. Granted, investors must be somewhat knowledgable about the investments that they are making to minimize risks. But even that may not be a barrier to entry anymore, with software engineering at the forefront to simplify and introduce finance to everyday people.
 
 <img class="ui tiny left circular floated image" src="../images/design-technology.jpg">
 
