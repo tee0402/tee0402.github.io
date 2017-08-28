@@ -15,5 +15,5 @@ I am not a greedy person, but ever since my friend introduced me to the world of
 
 Because of the massive scale at which software applications can be deployed, costs associated with traditional brokerages such as commission fees can be eliminated altogether, as Robinhood has done for its users. This could be a step towards democratizing the markets and narrowing wealth inequality. Software engineering is also well-equipped to solve the complex problems in the world of finance. Quantitative analysts, or quants, make their living doing just that, by applying mathematics and computer science to create complex algorithms and risk management strategies for their firms.
 
-I am now starting to take a Software Engineering class. I hope to learn a lot through the course, but I know it will be just the beginning of my journey. By the time I’m done with it, I hope I’ve learned enough to take the next step in my life as a developer. But until then, my fire will keep on burning.
+Just as I am now starting to take a Software Engineering class, the world is just now realizing the extent of how software engineering can disrupt the financial industry. I hope to learn enough in this course to become a part of the software revolution.
 
