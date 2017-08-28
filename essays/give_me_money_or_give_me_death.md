@@ -15,7 +15,7 @@ I am not a greedy person, but ever since my friend introduced me to the world of
 
 <img class="ui tiny left circular floated image" src="../images/design-technology.jpg">
 
-I never used to think that design and technology went hand in hand.  Thus, learning about software engineering and the role of design has been incredibly interesting to me. Design, implementation, and management are just some of the many things I wish to learn more about. Good art, in a way, makes a person question it. They become joined in the idea of visualization – where captivation meets inspiration.
+Software engineering is well-equipped to solve the complex problems in the world of finance. Quantitative analysts, or quants, make their living doing just that, by applying mathematics and computer science to create complex algorithms and risk management strategies for financial firms.
 
 <img class="ui tiny left circular floated image" src="../images/software-code.jpg">
 
