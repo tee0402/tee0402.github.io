@@ -11,7 +11,7 @@ labels:
 
 <img class="ui tiny right circular floated image" src="../images/paintbrushes.jpg">
 
-I am not a greedy person, but ever since my friend introduced me to the world of finance, I have been intrigued by it and the possibilities that it can bring. It is remarkable how money can grow ten-fold, or even a hundred-fold, if allocated to the right investments, without much, if any, effort on the investor's part. Granted, investors must be somewhat knowledgable about the investments that they are making to minimize risks. But even that may not be a barrier to entry anymore, with software engineering at the forefront to simplify and introduce finance to everyday people.
+I am not a greedy person, but ever since my friend introduced me to the world of finance, I have been intrigued by it and the possibilities that it can bring. It is remarkable how money can grow ten-fold, or even a hundred-fold, if allocated to the right investments, without much, if any, effort on the investor's part. Granted, investors must be somewhat knowledgable about the investments that they are making to minimize risks. But even that may not be a barrier to entry anymore, with software engineering at the forefront of simplifying and introducing finance to everyday people.
 
 <img class="ui tiny left circular floated image" src="../images/design-technology.jpg">
 
