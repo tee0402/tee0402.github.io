@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: Igniting the fire
+title: Give me money or give me death
 date: 2017-08-27
 labels:
   - Software Engineering
