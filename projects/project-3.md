@@ -13,7 +13,7 @@ labels:
 summary: A fun Android app with memes from the Star Wars prequels.
 ---
 
-<img class="ui medium image" src="../images/soundboard_screenshot_1.png">
+<img class="ui medium float right image" src="../images/soundboard_screenshot_1.png">
 
 Star Wars Soundboard is an Android soundboard app with sound clips from the Star Wars prequels. As anyone who have used a soundboard app would know, it consists of buttons that you press to play a small clip of interesting dialogue. You can long press a clip to add it to your favorites tab. This was a really fun project for me and my friends as we are Star Wars fans.
 
