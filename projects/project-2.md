@@ -23,4 +23,6 @@ I used various web technologies, such as Bootstrap for the UI, AngularJS for the
 
 In this project I gained experience with full-stack web application design and associated technologies, including MySQL for database storage, the Bootstrap CSS Framework for the user interface, JavaScript and some of its frameworks for client-side programming, and PHP for server-side programming.
  
-Source: <a href="https://www.bamboocalc.com">bamboocalc.com</a>
+Website: <a href="https://www.bamboocalc.com">bamboocalc.com</a>
+
+Source: <a href="https://github.com/tee0402/Bamboo"><i class="large github icon "></i>tee0402/Bamboo</a>
