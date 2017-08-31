@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: JavaScript is life
+title: JavaScript is...good?
 date: 2017-08-29
 labels:
   - JavaScript
