@@ -10,7 +10,7 @@ labels:
   - Questions
 ---
 
-<img class="ui image" src="../images/javascript.png">
+<img class="ui image" src="../images/stack_overflow.jpg">
 
 There is a saying that there are no stupid questions, but we all know that there are.
 
