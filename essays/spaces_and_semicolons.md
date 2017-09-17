@@ -16,4 +16,4 @@ Because of my background in other languages, I often mistakenly put a semicolon 
 
 By default, Python (and practically all other languages) implements its own coding standard. Each line in a block of code must be indented the same way. However, this is not just to make the code look prettier. Because of the lack of curly braces, the interpreter cannot understand your code if it does not implement this standard.
 
-Despite being obsessed with every little detail in my code, I do not think that you should force your coding standard onto others, who might have different preferences for how their code should look. As long as the style does not interfere with the correctness of the program, it should not matter very much whether you put spaces around operators.
+Despite being obsessed with every little detail in my code, I do not think that you should force your coding standard onto others, who might have different preferences for how their code should look. As long as the style does not interfere with the correctness of the program, it should not matter very much whether you put a space before and after an operator.
