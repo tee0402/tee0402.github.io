@@ -8,5 +8,6 @@ labels:
   - Coding standards
 ---
 
-<img class="ui image" src="../images/javascript.png">
+<img class="ui medium right floated image" src="../images/javascript.png">
 
+I have an obsession with spaces and semicolons in code.
