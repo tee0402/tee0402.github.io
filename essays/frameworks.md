@@ -8,6 +8,6 @@ labels:
   - Frameworks
 ---
 
-<img class="ui large image" src="../images/semantic_ui_vs_bootstrap.jpg">
+<img class="ui large left floated image" src="../images/semantic_ui_vs_bootstrap.jpg">
 
-Semantic UI is ok.
+Semantic UI is often seen as a direct competitor to Bootstrap. But they both have their advantages and can coexist in your web project.
