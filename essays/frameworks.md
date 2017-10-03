@@ -8,6 +8,6 @@ labels:
   - Frameworks
 ---
 
-<img class="ui large right floated image" src="../images/semantic_ui_vs_bootstrap.jpg">
+<img class="ui large image" src="../images/semantic_ui_vs_bootstrap.jpg">
 
 Semantic UI is ok.
