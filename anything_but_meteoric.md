@@ -1,11 +1,11 @@
 ---
 layout: essay
 type: essay
-title: "Meteoric"
+title: "Anything but meteoric"
 date: 2017-10-21
 labels:
   - Software Engineering
   - Meteor
 ---
 
-Meteoric disaster.
+Meteor is anything but meteoric.
