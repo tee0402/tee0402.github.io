@@ -10,7 +10,7 @@ labels:
 
 <img class="ui image" src="../images/meteor.jpg">
 
-Meteors are supposed to be cool and interesting to watch. But they can quickly become disasters if they are too large. The Meteor application architecture is similar. It was supposed to be a modern web development platform that uses JavaScript as both client-side and server-side code to deliver a dynamic experience to users. However, it was overly ambitious. By trying to be able to do everything, it became cluttered with all sorts of frameworks and technologies. Development slows to a halt once an application becomes more complex than a "Hello World" program.
+Meteors are supposed to be cool and interesting to watch. But they can quickly become disasters if they are too large. The Meteor application architecture is similar. It was supposed to be a modern web development platform that uses JavaScript on both the client and the server to deliver a dynamic experience to users. However, it was overly ambitious. By trying to be able to do everything, it became cluttered with all sorts of frameworks and technologies. Development slows to a halt once an application becomes more complex than a "Hello World" program.
 
 Despite its flaws, Meteor did come up with some good ideas for handling data. The client-side database is ingenious and works without a hiccup. To a user, data is synced to and from the server magically. To a developer, it is great having the same code work on both the client and the server.
 
