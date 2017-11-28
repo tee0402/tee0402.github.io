@@ -12,4 +12,4 @@ Ethical software engineering requires a lot of effort on the part of software en
 
 <img class="ui right floated medium image" src="../images/online.jpeg">
 
-In the case of the Serial Swatter, it was clear that Twitch did not do enough to prevent harm to female streamers. However, the female gamers shoulder some of the blame as well because they should not have an expectation of privacy on the internet. It should be clear to Twitch from the start that people can and will do anything online, when their anonymity is almost guaranteed. The harassment of individuals 
+In the case of the Serial Swatter, it was clear that Twitch did not do enough to prevent harm to female streamers. It should be clear to Twitch from the start that people can and will do anything online, when their anonymity is almost guaranteed. The harassment of individuals is a serious issue, and since online lives are so intricately linked with real ones, online harassment can often translate into physical harassment.
