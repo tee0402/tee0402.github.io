@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "Ethical night"
+title: "Software Engineers Are the New Doctors"
 date: 2017-11-28
 labels:
   - Software Engineering
