@@ -8,4 +8,4 @@ labels:
   - Design Patterns
 ---
 
-There is a certain comfort in linearity.
+There is something nice about linearity. For example, I take comfort in knowing that as long as I write code a certain way, then it will work.
