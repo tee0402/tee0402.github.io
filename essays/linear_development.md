@@ -10,4 +10,4 @@ labels:
 
 <img class="ui right floated medium image" src="../images/non-linear.jpeg">
 
-There is something nice about linearity. For example, I take comfort in knowing that as long as I write code a certain way, then my program will work and there will not be any bugs in it.
+There is a certain comfort in linearity. For example, I take comfort in knowing that as long as I write code a certain way, then my program will work and there will not be any bugs in it.
