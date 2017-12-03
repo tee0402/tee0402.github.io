@@ -16,4 +16,4 @@ Often, I take comfort in knowing that as long as I write code in a certain way, 
 
 Why is life so complicated?
 
-Fortunately, people have figured out ways to de-complicate our lives.
+Fortunately, people have figured out ways to uncomplicate our lives.
