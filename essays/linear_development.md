@@ -8,4 +8,6 @@ labels:
   - Design Patterns
 ---
 
-There is something nice about linearity. For example, I take comfort in knowing that as long as I write code a certain way, then it will work.
+<img class="ui right floated medium image" src="../images/non-linear.jpeg">
+
+There is something nice about linearity. For example, I take comfort in knowing that as long as I write code a certain way, then my program will work and bugs will not be present.
