@@ -56,12 +56,12 @@
         "HTML",
         "CSS",
         "Bootstrap",
-        "Javascript",
+        "JavaScript",
         "jQuery",
         "AngularJS",
         "PHP",
         "Python",
-        "SQL (MySQL and Oracle PL/SQL)"
+        "SQL (Oracle)"
       ]
     },
     {
@@ -69,8 +69,8 @@
       "level": "",
       "keywords": [
         "Windows",
-        "Ubuntu",
-        "Git/GitHub"
+        "Linux",
+        "GitHub"
       ]
     }
   ],
@@ -93,10 +93,11 @@
       "website": "",
       "startDate": "2017-08-21",
       "endDate": "Present",
-      "summary": "Assists with Foundation data loading and programming tasks",
+      "summary": "Assists with Foundation database maintenance and programming tasks",
       "highlights": [
-        "Maintain and insert new data into database",
-        "Create business reports"
+        "Wrote SQL scripts to streamline the loading of thousands of addresses into the database",
+        "Used regular expressions to automate the lengthening of addresses for formal purposes",
+        "Formatted business reports using IBM Cognos Reports"
       ]
     }
   ],
