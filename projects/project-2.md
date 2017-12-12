@@ -21,7 +21,7 @@ Bamboo is a web application that I first made to mimic and improve upon a financ
 
 I used various web technologies, such as Bootstrap for the UI, AngularJS for the dynamic nature of the elements, and PHP and MySQL for user authentication and preferences. I used a web host called 1&1 for the hosting of the website. But to improve my knowledge of Linux and web hosting, I used the LAMP(Linux, Apache, MySQL, PHP) stack to host the website on my laptop as well.
 
-In this project I gained experience with full-stack web application design and associated technologies, including MySQL for database storage, the Bootstrap CSS Framework for the user interface, JavaScript and some of its frameworks for client-side programming, and PHP for server-side programming.
+In this project I gained experience with full-stack web development and associated technologies, including MySQL for database storage, the Bootstrap CSS Framework for the user interface, JavaScript and some of its frameworks for client-side programming, and PHP for server-side programming.
  
 Website: <a href="https://www.bamboocalc.com">bamboocalc.com</a>
 
