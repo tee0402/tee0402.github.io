@@ -34,7 +34,7 @@
       ]
     },
     {
-      "name": "machine learning",
+      "name": "big data",
       "keywords": [
       ]
     },
@@ -101,7 +101,7 @@
       "highlights": [
         "Wrote SQL scripts to streamline the loading of thousands of addresses into the database",
         "Used regular expressions to automate the lengthening of addresses for formal purposes",
-        "Formatted business reports using IBM Cognos Reports"
+        "Formatted business reports using IBM Cognos Report Studio"
       ]
     }
   ],
