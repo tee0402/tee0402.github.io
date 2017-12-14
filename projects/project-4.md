@@ -8,10 +8,10 @@ date: 2017
 labels:
   - Web
   - Meteor
-summary: A website for students and staff at the University of Hawaii to find friends and events
+summary: A website for students and staff at the University of Hawaii to find events and friends
 ---
 
-<img class="ui medium right floated image" src="../images/venture_dashboard.png">
+<img class="ui large right floated image" src="../images/venture_dashboard.png">
 
 Star Wars Soundboard is an Android soundboard app with sound clips from the Star Wars prequels. As anyone who has used a soundboard app would know, it consists of buttons that you press to play a small clip of interesting sound or dialogue. You can long press a clip to add it to your favorites tab. This was a really fun project for me and my friends as we are Star Wars fans.
 
