@@ -8,14 +8,14 @@ date: 2017
 labels:
   - Web
   - Meteor
-summary: A website for students and staff at the University of Hawaii to find events and friends
+summary: A website for students at the University of Hawaii to find events and friends
 ---
 
 <img class="ui large right floated image" src="../images/venture_dashboard.png">
 
-Star Wars Soundboard is an Android soundboard app with sound clips from the Star Wars prequels. As anyone who has used a soundboard app would know, it consists of buttons that you press to play a small clip of interesting sound or dialogue. You can long press a clip to add it to your favorites tab. This was a really fun project for me and my friends as we are Star Wars fans.
+Venture is a dynamic website built with the Meteor framework. Its purpose is to allow UH students to find events and activities to do on the islands and even meet friends while doing so. This will serve as a distraction to their stressful schoolwork and make their college lives more fun and memorable.
 
-I worked on this project with a friend, who cut some sound clips for me. I used Android Studio to create this app. XML was used to create the layout, and Java was used along with the Android API to make the backend. A total of 223 sounds were cut from the movies using Audacity.
+This project was accomplished with a team of three in my software engineering class. It uses Meteor, a pure JavaScript framework for both the frontend and backend. This allowed us to create a dynamic, mobile-like experience on the web.
 
 This project introduced me to Android app development concepts such as layouts, views and activities. I also learned some aspects of sound processing using Audacity.
 
