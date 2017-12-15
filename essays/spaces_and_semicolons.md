@@ -5,7 +5,7 @@ title: Spaces and Semicolons
 date: 2017-09-16
 labels:
   - Software Engineering
-  - Coding standards
+  - Coding Standards
 ---
 
 <img class="ui large right floated image" src="../images/javascript.png">
