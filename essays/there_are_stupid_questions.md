@@ -12,7 +12,7 @@ labels:
 
 <img class="ui image" src="../images/stack_overflow.jpg">
 
-There is a saying that there are no stupid questions, but we all know that there are. It is very difficult to understand or answer a question asked by someone who does not know how to ask a good question. Since good software engineering involves good communication of the problems that you encounter, having the ability to ask good questions is paramount as a software engineer. It will lead to more time discussing solutions and less time figuring out what you are asking.
+There is a saying that there are no stupid questions, but we all know that there are. It is very difficult to understand or answer a question asked by someone who does not know how to ask a good question. Since good software engineering involves good communication of the problems that you encounter, having the ability to ask good questions is paramount as a software engineer. It will lead to more time discussing solutions and less time figuring out what is being asked.
 
 One of the questions that is asked the smart way is <a href="https://stackoverflow.com/questions/5515310/is-there-a-standard-function-to-check-for-null-undefined-or-blank-variables-in">Is there a standard function to check for null, undefined, or blank variables in JavaScript?</a>. The question is clear and concise. To demonstrate effort, the questioner includes code that he has tried. But since he is not sure that it is the right solution, he asks other experts in the language. As a result, the answers are to the point and help to clear up misconceptions that the questioner had. Answerers even threw in additional tips to help the questioner, which would not have occurred if it was a stupid question.
 
