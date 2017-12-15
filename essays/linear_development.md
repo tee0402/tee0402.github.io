@@ -8,7 +8,7 @@ labels:
   - Design Patterns
 ---
 
-## Linearity Is Comforting
+## Linearity in Programming
 
 There is a certain comfort in linearity.
 
