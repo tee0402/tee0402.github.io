@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: Write more, do less
+title: Write More, Do Less
 date: 2017-10-03
 labels:
   - Software Engineering
