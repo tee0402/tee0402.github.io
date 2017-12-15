@@ -8,6 +8,9 @@ date: 2017
 labels:
   - Web
   - Meteor
+  - JavaScript
+  - Semantic UI
+  - MongoDB
 summary: A website for students at the University of Hawaii to find events and friends
 ---
 
