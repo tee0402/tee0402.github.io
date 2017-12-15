@@ -16,7 +16,7 @@ summary: A website for students at the University of Hawaii to find events and f
 
 <img class="ui large right floated image" src="../images/venture_dashboard.png">
 
-Venture is a dynamic website built with the Meteor framework. Its purpose is to allow UH students to find events and activities to do on the islands and even meet friends while doing so. This will serve as a distraction to their stressful schoolwork and make their college lives more fun and memorable.
+Venture is a dynamic website built with the Meteor framework. Its purpose is to allow UH students to find events and activities to do on the islands and even meet friends while doing so. This will hopefully alleviate their stress from school and make their college lives more fun and memorable.
 
 This project was accomplished with a team of three in my software engineering class. It uses Meteor, a pure JavaScript framework for both the frontend and backend. This allows us to create a dynamic, mobile-like experience on the web. The layout was created using components from the HTML/CSS framework Semantic UI and the database used was the NoSQL database MongoDB, which stores data in JSON form.
 
