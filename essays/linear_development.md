@@ -6,7 +6,6 @@ date: 2017-12-02
 labels:
   - Software Engineering
   - Design Patterns
-summary: How can we bring certainty and structure to software engineering?
 ---
 
 ## Linearity in Programming
