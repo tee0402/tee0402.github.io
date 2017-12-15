@@ -11,7 +11,7 @@ labels:
   - JavaScript
   - Semantic UI
   - MongoDB
-summary: A website for students at the University of Hawaii to find things to do and make friends
+summary: A website for students at the University of Hawaii to find things to do and to make friends
 ---
 
 <img class="ui large right floated image" src="../images/venture_dashboard.png">
