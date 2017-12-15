@@ -21,7 +21,7 @@ I worked on this project with a friend, who cut some sound clips for me. I used 
 
 This project introduced me to Android app development concepts such as layouts, views and activities. I also learned some aspects of sound processing using Audacity.
 
-Unfortunately the Google Play Store suspended the app for copyright infringement, so it is not on there. But the source code is on Github and I still have the apk, so it is still available for people who want it.
+Unfortunately the Google Play Store suspended the app for copyright infringement, so it is not on there. But the source code is on Github and I still have the apk file, so it is still available for people who want it.
 
 Source: <a href="https://github.com/tee0402/StarWarsSoundboard"><i class="large github icon "></i>tee0402/StarWarsSoundboard</a>
 
