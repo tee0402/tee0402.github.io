@@ -10,7 +10,7 @@ labels:
 
 ## Semantic UI or Bootstrap?
 
-<img class="ui large left floated image" src="../images/semantic_ui_vs_bootstrap.jpg">
+<img class="ui medium right floated image" src="../images/semantic_ui_vs_bootstrap.jpg">
 
 Semantic UI is often seen as a direct competitor to Bootstrap, but they both have their advantages and can coexist in a web project. To start, they offer different elements and styles, allowing you to pick and choose the ones that will work best in your project. For example, Semantic UI has more specialized components such as comments and cards, which Bootstrap lacks. If you want to create a web application with those components, but do not want to recreate them using a combination of other elements, Semantic UI is right for you.
 
