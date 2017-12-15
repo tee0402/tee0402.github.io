@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: Spaces and semicolons
+title: Spaces and Semicolons
 date: 2017-09-16
 labels:
   - Software Engineering
