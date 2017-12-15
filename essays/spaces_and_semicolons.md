@@ -20,6 +20,6 @@ Because of my background in other languages, I often mistakenly put a semicolon 
 
 By default, Python (and practically all other languages) implements its own coding standard. For example, Python requires that every line in the same block of code must have the same indentation. However, this is not just to make the code look prettier. The lack of curly braces to denote a block of code means that the interpreter cannot understand the code if it does not implement this standard.
 
-## Don't Be a Coding Standard Nazi
+## Do Not Be a Coding Standard Nazi
 
 Despite being obsessed with every little detail in my code, I do not think that you should force your coding standard onto others, who might have different preferences for how their code should look. As long as the style does not interfere with the correctness of the program, it should not matter very much whether you put a space after an "if". However, I am not against coding standards embedded in languages themselves, as long as they are well-thought-out (e.g. Python's elimination of semicolons) and not about nitpicking at unimportant details (e.g. 2 spaces vs. 4 spaces in a tab indentation).
